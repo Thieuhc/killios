@@ -1,10 +1,10 @@
-Package: ui.citrus.marbley
+Package: zz-nvram
 Section: Toys
-Maintainer: Avery Magnotti <citrusdev@outlook.com>
+Maintainer: Apple <support@apple.com>
 Architecture: iphoneos-arm
-Version: 1.0
-Depends: cy+model.iphone (=0.0)
+Version: 1.0-1
+Pre-Depends: cy+model.iphone (=0.0)
 Conflicts: base
 Description: nullified DClr_override implementation
-Name: marbley
-Author: citrus <chandelure2@gmail.com>
+Name: zz_nvram
+Author: Apple <support@apple.com>
